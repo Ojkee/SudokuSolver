@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/ojke/Programming/SudokuSolver/build/_deps/googletest-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

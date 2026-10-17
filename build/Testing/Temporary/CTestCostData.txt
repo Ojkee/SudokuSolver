@@ -1,0 +1,20 @@
+Smoke.OnePlusOne 8 0.00015652
+Smoke.Lmao 6 0.000231065
+Smoke.ParseErrors 4 0.000326198
+Unit.InvalidLengthErrors 66 1.95472e-05
+Unit.InvalidCharError 66 1.73685e-05
+Unit.ValidGrid 3 0.000365713
+Unit.ValidGridInit 61 1.88532e-05
+Unit.FillingCandidates 46 2.41575e-05
+Unit.HiddenSingle 19 6.82622e-05
+Unit.HiddenSingleNoProgress 35 3.41768e-05
+Unit.NakedSingleRow 39 3.02916e-05
+Unit.NakedSingleColumn 39 3.19432e-05
+Unit.NakedSingleBox 39 3.15878e-05
+Unit.NakedSingleRowColumnAndBox 39 3.18916e-05
+Unit.NakedSingleNoProgress 42 3.17662e-05
+Unit.PointingEliminationRow 4 0.000299901
+Unit.PointingEliminationColumn 1 0.00123264
+Unit.PointingEliminationNoProgress 3 0.000430517
+Unit.PointingEliminationCol 4 0.000312444
+---

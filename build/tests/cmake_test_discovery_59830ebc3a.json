@@ -1,0 +1,77 @@
+{
+  "tests": 13,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "Unit",
+      "tests": 13,
+      "testsuite": [
+        {
+          "name": "InvalidLengthErrors",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_grid_init.cpp",
+          "line": 7
+        },
+        {
+          "name": "InvalidCharError",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_grid_init.cpp",
+          "line": 24
+        },
+        {
+          "name": "ValidGridInit",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_grid_init.cpp",
+          "line": 38
+        },
+        {
+          "name": "FillingCandidates",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_grid_candidates.cpp",
+          "line": 9
+        },
+        {
+          "name": "NakedSingleRow",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_naked_single.cpp",
+          "line": 5
+        },
+        {
+          "name": "NakedSingleColumn",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_naked_single.cpp",
+          "line": 14
+        },
+        {
+          "name": "NakedSingleBox",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_naked_single.cpp",
+          "line": 32
+        },
+        {
+          "name": "NakedSingleRowColumnAndBox",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_naked_single.cpp",
+          "line": 50
+        },
+        {
+          "name": "NakedSingleNoProgress",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_naked_single.cpp",
+          "line": 68
+        },
+        {
+          "name": "HiddenSingle",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_hidden_single.cpp",
+          "line": 5
+        },
+        {
+          "name": "HiddenSingleNoProgress",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_hidden_single.cpp",
+          "line": 24
+        },
+        {
+          "name": "PointingEliminationRow",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_pointing_elimination.cpp",
+          "line": 6
+        },
+        {
+          "name": "PointingEliminationCol",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_pointing_elimination.cpp",
+          "line": 37
+        }
+      ]
+    }
+  ]
+}

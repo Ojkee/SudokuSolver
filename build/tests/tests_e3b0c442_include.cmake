@@ -1,0 +1,5 @@
+if(EXISTS "/home/ojke/Programming/SudokuSolver/build/tests/tests_e3b0c442_tests.cmake")
+  include("/home/ojke/Programming/SudokuSolver/build/tests/tests_e3b0c442_tests.cmake")
+else()
+  add_test(tests_NOT_BUILT tests_NOT_BUILT)
+endif()

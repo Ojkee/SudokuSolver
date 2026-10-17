@@ -1,0 +1,98 @@
+[
+{
+  "directory": "/home/ojke/Programming/SudokuSolver/build",
+  "command": "/usr/bin/c++ -I/home/ojke/Programming/SudokuSolver/include -std=c++23 -o CMakeFiles/core.dir/src/grid.cpp.o -c /home/ojke/Programming/SudokuSolver/src/grid.cpp",
+  "file": "/home/ojke/Programming/SudokuSolver/src/grid.cpp",
+  "output": "/home/ojke/Programming/SudokuSolver/build/CMakeFiles/core.dir/src/grid.cpp.o"
+},
+{
+  "directory": "/home/ojke/Programming/SudokuSolver/build",
+  "command": "/usr/bin/c++ -I/home/ojke/Programming/SudokuSolver/include -std=c++23 -o CMakeFiles/core.dir/src/solver.cpp.o -c /home/ojke/Programming/SudokuSolver/src/solver.cpp",
+  "file": "/home/ojke/Programming/SudokuSolver/src/solver.cpp",
+  "output": "/home/ojke/Programming/SudokuSolver/build/CMakeFiles/core.dir/src/solver.cpp.o"
+},
+{
+  "directory": "/home/ojke/Programming/SudokuSolver/build",
+  "command": "/usr/bin/c++ -I/home/ojke/Programming/SudokuSolver/include -std=c++23 -o CMakeFiles/core.dir/src/rules/naked_single.cpp.o -c /home/ojke/Programming/SudokuSolver/src/rules/naked_single.cpp",
+  "file": "/home/ojke/Programming/SudokuSolver/src/rules/naked_single.cpp",
+  "output": "/home/ojke/Programming/SudokuSolver/build/CMakeFiles/core.dir/src/rules/naked_single.cpp.o"
+},
+{
+  "directory": "/home/ojke/Programming/SudokuSolver/build",
+  "command": "/usr/bin/c++ -I/home/ojke/Programming/SudokuSolver/include -std=c++23 -o CMakeFiles/core.dir/src/rules/hidden_single.cpp.o -c /home/ojke/Programming/SudokuSolver/src/rules/hidden_single.cpp",
+  "file": "/home/ojke/Programming/SudokuSolver/src/rules/hidden_single.cpp",
+  "output": "/home/ojke/Programming/SudokuSolver/build/CMakeFiles/core.dir/src/rules/hidden_single.cpp.o"
+},
+{
+  "directory": "/home/ojke/Programming/SudokuSolver/build",
+  "command": "/usr/bin/c++ -I/home/ojke/Programming/SudokuSolver/include -std=c++23 -o CMakeFiles/core.dir/src/rules/hidden_pair.cpp.o -c /home/ojke/Programming/SudokuSolver/src/rules/hidden_pair.cpp",
+  "file": "/home/ojke/Programming/SudokuSolver/src/rules/hidden_pair.cpp",
+  "output": "/home/ojke/Programming/SudokuSolver/build/CMakeFiles/core.dir/src/rules/hidden_pair.cpp.o"
+},
+{
+  "directory": "/home/ojke/Programming/SudokuSolver/build",
+  "command": "/usr/bin/c++ -I/home/ojke/Programming/SudokuSolver/include -std=c++23 -o CMakeFiles/core.dir/src/rules/pointing_elimination.cpp.o -c /home/ojke/Programming/SudokuSolver/src/rules/pointing_elimination.cpp",
+  "file": "/home/ojke/Programming/SudokuSolver/src/rules/pointing_elimination.cpp",
+  "output": "/home/ojke/Programming/SudokuSolver/build/CMakeFiles/core.dir/src/rules/pointing_elimination.cpp.o"
+},
+{
+  "directory": "/home/ojke/Programming/SudokuSolver/build",
+  "command": "/usr/bin/c++ -I/home/ojke/Programming/SudokuSolver/include -std=c++23 -o CMakeFiles/app.dir/src/main.cpp.o -c /home/ojke/Programming/SudokuSolver/src/main.cpp",
+  "file": "/home/ojke/Programming/SudokuSolver/src/main.cpp",
+  "output": "/home/ojke/Programming/SudokuSolver/build/CMakeFiles/app.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/ojke/Programming/SudokuSolver/build",
+  "command": "/usr/bin/c++ -I/home/ojke/Programming/SudokuSolver/include -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/include -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest -std=c++23 -o tests/CMakeFiles/tests.dir/test_grid_init.cpp.o -c /home/ojke/Programming/SudokuSolver/tests/test_grid_init.cpp",
+  "file": "/home/ojke/Programming/SudokuSolver/tests/test_grid_init.cpp",
+  "output": "/home/ojke/Programming/SudokuSolver/build/tests/CMakeFiles/tests.dir/test_grid_init.cpp.o"
+},
+{
+  "directory": "/home/ojke/Programming/SudokuSolver/build",
+  "command": "/usr/bin/c++ -I/home/ojke/Programming/SudokuSolver/include -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/include -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest -std=c++23 -o tests/CMakeFiles/tests.dir/test_grid_candidates.cpp.o -c /home/ojke/Programming/SudokuSolver/tests/test_grid_candidates.cpp",
+  "file": "/home/ojke/Programming/SudokuSolver/tests/test_grid_candidates.cpp",
+  "output": "/home/ojke/Programming/SudokuSolver/build/tests/CMakeFiles/tests.dir/test_grid_candidates.cpp.o"
+},
+{
+  "directory": "/home/ojke/Programming/SudokuSolver/build",
+  "command": "/usr/bin/c++ -I/home/ojke/Programming/SudokuSolver/include -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/include -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest -std=c++23 -o tests/CMakeFiles/tests.dir/test_naked_single.cpp.o -c /home/ojke/Programming/SudokuSolver/tests/test_naked_single.cpp",
+  "file": "/home/ojke/Programming/SudokuSolver/tests/test_naked_single.cpp",
+  "output": "/home/ojke/Programming/SudokuSolver/build/tests/CMakeFiles/tests.dir/test_naked_single.cpp.o"
+},
+{
+  "directory": "/home/ojke/Programming/SudokuSolver/build",
+  "command": "/usr/bin/c++ -I/home/ojke/Programming/SudokuSolver/include -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/include -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest -std=c++23 -o tests/CMakeFiles/tests.dir/test_hidden_single.cpp.o -c /home/ojke/Programming/SudokuSolver/tests/test_hidden_single.cpp",
+  "file": "/home/ojke/Programming/SudokuSolver/tests/test_hidden_single.cpp",
+  "output": "/home/ojke/Programming/SudokuSolver/build/tests/CMakeFiles/tests.dir/test_hidden_single.cpp.o"
+},
+{
+  "directory": "/home/ojke/Programming/SudokuSolver/build",
+  "command": "/usr/bin/c++ -I/home/ojke/Programming/SudokuSolver/include -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/include -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest -std=c++23 -o tests/CMakeFiles/tests.dir/test_pointing_elimination.cpp.o -c /home/ojke/Programming/SudokuSolver/tests/test_pointing_elimination.cpp",
+  "file": "/home/ojke/Programming/SudokuSolver/tests/test_pointing_elimination.cpp",
+  "output": "/home/ojke/Programming/SudokuSolver/build/tests/CMakeFiles/tests.dir/test_pointing_elimination.cpp.o"
+},
+{
+  "directory": "/home/ojke/Programming/SudokuSolver/build",
+  "command": "/usr/bin/c++ -I/home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googlemock/include -I/home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googlemock -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/include -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest -std=c++23 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "/home/ojke/Programming/SudokuSolver/build/_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/home/ojke/Programming/SudokuSolver/build",
+  "command": "/usr/bin/c++ -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googlemock/include -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googlemock -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/include -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest -std=c++23 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "/home/ojke/Programming/SudokuSolver/build/_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/home/ojke/Programming/SudokuSolver/build",
+  "command": "/usr/bin/c++ -I/home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/include -I/home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest -std=c++23 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "/home/ojke/Programming/SudokuSolver/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/ojke/Programming/SudokuSolver/build",
+  "command": "/usr/bin/c++ -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/include -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest -std=c++23 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "/home/ojke/Programming/SudokuSolver/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]
