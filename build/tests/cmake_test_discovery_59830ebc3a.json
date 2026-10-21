@@ -1,10 +1,10 @@
 {
-  "tests": 13,
+  "tests": 17,
   "name": "AllTests",
   "testsuites": [
     {
       "name": "Unit",
-      "tests": 13,
+      "tests": 17,
       "testsuite": [
         {
           "name": "InvalidLengthErrors",
@@ -70,6 +70,26 @@
           "name": "PointingEliminationCol",
           "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_pointing_elimination.cpp",
           "line": 37
+        },
+        {
+          "name": "HiddenPairGroup",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_hidden_pair.cpp",
+          "line": 8
+        },
+        {
+          "name": "HiddenPairRow",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_hidden_pair.cpp",
+          "line": 39
+        },
+        {
+          "name": "HiddenPairColumn",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_hidden_pair.cpp",
+          "line": 67
+        },
+        {
+          "name": "HiddenPairNoProgress",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_hidden_pair.cpp",
+          "line": 95
         }
       ]
     }

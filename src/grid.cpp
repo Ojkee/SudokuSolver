@@ -156,8 +156,13 @@ auto Grid::has_candidate(Idx row, Idx col, const Cell value) const noexcept
 }
 
 auto Grid::transposed_candidates() const noexcept -> const Candidates_t {
-  // TODO: implement
-  return {};
+  Candidates_t transposed{};
+  for (const auto [y, row] : vw::enumerate(cell_candidates_)) {
+    for (const auto [x, value] : vw::enumerate(row)) {
+      transposed[x][y] = value;
+    }
+  }
+  return transposed;
 }
 
 /*

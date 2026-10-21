@@ -362,15 +362,6 @@ gtest_force_shared_crt:BOOL=OFF
 gtest_hide_internal_symbols:BOOL=OFF
 
 //Value Computed by CMake
-moj_projekt_BINARY_DIR:STATIC=/home/ojke/Programming/SudokuSolver/build
-
-//Value Computed by CMake
-moj_projekt_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-moj_projekt_SOURCE_DIR:STATIC=/home/ojke/Programming/SudokuSolver
-
-//Value Computed by CMake
 sudoku_solver_BINARY_DIR:STATIC=/home/ojke/Programming/SudokuSolver/build
 
 //Value Computed by CMake

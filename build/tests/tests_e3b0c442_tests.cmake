@@ -115,4 +115,40 @@ set_tests_properties([=[Unit.PointingEliminationCol]=]
     SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==]
     
 )
-set(tests_TESTS [==[Unit.InvalidLengthErrors]==] [==[Unit.InvalidCharError]==] [==[Unit.ValidGridInit]==] [==[Unit.FillingCandidates]==] [==[Unit.NakedSingleRow]==] [==[Unit.NakedSingleColumn]==] [==[Unit.NakedSingleBox]==] [==[Unit.NakedSingleRowColumnAndBox]==] [==[Unit.NakedSingleNoProgress]==] [==[Unit.HiddenSingle]==] [==[Unit.HiddenSingleNoProgress]==] [==[Unit.PointingEliminationRow]==] [==[Unit.PointingEliminationCol]==])
+add_test([=[Unit.HiddenPairGroup]=]  /home/ojke/Programming/SudokuSolver/build/tests/tests [==[--gtest_filter=Unit.HiddenPairGroup]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[Unit.HiddenPairGroup]=]
+  PROPERTIES
+    
+    DEF_SOURCE_LINE [==[/home/ojke/Programming/SudokuSolver/tests/test_hidden_pair.cpp:8]==]
+    WORKING_DIRECTORY [==[/home/ojke/Programming/SudokuSolver/build/tests]==]
+    SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==]
+    
+)
+add_test([=[Unit.HiddenPairRow]=]  /home/ojke/Programming/SudokuSolver/build/tests/tests [==[--gtest_filter=Unit.HiddenPairRow]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[Unit.HiddenPairRow]=]
+  PROPERTIES
+    
+    DEF_SOURCE_LINE [==[/home/ojke/Programming/SudokuSolver/tests/test_hidden_pair.cpp:39]==]
+    WORKING_DIRECTORY [==[/home/ojke/Programming/SudokuSolver/build/tests]==]
+    SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==]
+    
+)
+add_test([=[Unit.HiddenPairColumn]=]  /home/ojke/Programming/SudokuSolver/build/tests/tests [==[--gtest_filter=Unit.HiddenPairColumn]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[Unit.HiddenPairColumn]=]
+  PROPERTIES
+    
+    DEF_SOURCE_LINE [==[/home/ojke/Programming/SudokuSolver/tests/test_hidden_pair.cpp:67]==]
+    WORKING_DIRECTORY [==[/home/ojke/Programming/SudokuSolver/build/tests]==]
+    SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==]
+    
+)
+add_test([=[Unit.HiddenPairNoProgress]=]  /home/ojke/Programming/SudokuSolver/build/tests/tests [==[--gtest_filter=Unit.HiddenPairNoProgress]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[Unit.HiddenPairNoProgress]=]
+  PROPERTIES
+    
+    DEF_SOURCE_LINE [==[/home/ojke/Programming/SudokuSolver/tests/test_hidden_pair.cpp:95]==]
+    WORKING_DIRECTORY [==[/home/ojke/Programming/SudokuSolver/build/tests]==]
+    SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==]
+    
+)
+set(tests_TESTS [==[Unit.InvalidLengthErrors]==] [==[Unit.InvalidCharError]==] [==[Unit.ValidGridInit]==] [==[Unit.FillingCandidates]==] [==[Unit.NakedSingleRow]==] [==[Unit.NakedSingleColumn]==] [==[Unit.NakedSingleBox]==] [==[Unit.NakedSingleRowColumnAndBox]==] [==[Unit.NakedSingleNoProgress]==] [==[Unit.HiddenSingle]==] [==[Unit.HiddenSingleNoProgress]==] [==[Unit.PointingEliminationRow]==] [==[Unit.PointingEliminationCol]==] [==[Unit.HiddenPairGroup]==] [==[Unit.HiddenPairRow]==] [==[Unit.HiddenPairColumn]==] [==[Unit.HiddenPairNoProgress]==])

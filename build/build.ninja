@@ -359,6 +359,14 @@ build tests/CMakeFiles/tests.dir/test_pointing_elimination.cpp.o: CXX_COMPILER__
   OBJECT_FILE_DIR = tests/CMakeFiles/tests.dir
   TARGET_SUPPORT_DIR = tests/CMakeFiles/tests.dir
 
+build tests/CMakeFiles/tests.dir/test_hidden_pair.cpp.o: CXX_COMPILER__tests_unscanned_ /home/ojke/Programming/SudokuSolver/tests/test_hidden_pair.cpp || cmake_object_order_depends_target_tests
+  DEP_FILE = tests/CMakeFiles/tests.dir/test_hidden_pair.cpp.o.d
+  FLAGS = -std=c++23
+  INCLUDES = -I/home/ojke/Programming/SudokuSolver/include -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/include -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest
+  OBJECT_DIR = tests/CMakeFiles/tests.dir
+  OBJECT_FILE_DIR = tests/CMakeFiles/tests.dir
+  TARGET_SUPPORT_DIR = tests/CMakeFiles/tests.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target tests
@@ -367,7 +375,7 @@ build tests/CMakeFiles/tests.dir/test_pointing_elimination.cpp.o: CXX_COMPILER__
 #############################################
 # Link the executable tests/tests
 
-build tests/tests tests/tests_e3b0c442_tests.cmake | ${cmake_ninja_workdir}tests/tests_e3b0c442_tests.cmake: CXX_EXECUTABLE_LINKER__tests_ tests/CMakeFiles/tests.dir/test_grid_init.cpp.o tests/CMakeFiles/tests.dir/test_grid_candidates.cpp.o tests/CMakeFiles/tests.dir/test_naked_single.cpp.o tests/CMakeFiles/tests.dir/test_hidden_single.cpp.o tests/CMakeFiles/tests.dir/test_pointing_elimination.cpp.o | libcore.a lib/libgtest_main.a lib/libgtest.a || lib/libgtest.a lib/libgtest_main.a libcore.a
+build tests/tests tests/tests_e3b0c442_tests.cmake | ${cmake_ninja_workdir}tests/tests_e3b0c442_tests.cmake: CXX_EXECUTABLE_LINKER__tests_ tests/CMakeFiles/tests.dir/test_grid_init.cpp.o tests/CMakeFiles/tests.dir/test_grid_candidates.cpp.o tests/CMakeFiles/tests.dir/test_naked_single.cpp.o tests/CMakeFiles/tests.dir/test_hidden_single.cpp.o tests/CMakeFiles/tests.dir/test_pointing_elimination.cpp.o tests/CMakeFiles/tests.dir/test_hidden_pair.cpp.o | libcore.a lib/libgtest_main.a lib/libgtest.a || lib/libgtest.a lib/libgtest_main.a libcore.a
   DEP_FILE = tests/CMakeFiles/tests.dir/link.d
   LINK_FLAGS = -Wl,--dependency-file=tests/CMakeFiles/tests.dir/link.d
   LINK_LIBRARIES = libcore.a  lib/libgtest_main.a  lib/libgtest.a

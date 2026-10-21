@@ -73,6 +73,12 @@
 },
 {
   "directory": "/home/ojke/Programming/SudokuSolver/build",
+  "command": "/usr/bin/c++ -I/home/ojke/Programming/SudokuSolver/include -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/include -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest -std=c++23 -o tests/CMakeFiles/tests.dir/test_hidden_pair.cpp.o -c /home/ojke/Programming/SudokuSolver/tests/test_hidden_pair.cpp",
+  "file": "/home/ojke/Programming/SudokuSolver/tests/test_hidden_pair.cpp",
+  "output": "/home/ojke/Programming/SudokuSolver/build/tests/CMakeFiles/tests.dir/test_hidden_pair.cpp.o"
+},
+{
+  "directory": "/home/ojke/Programming/SudokuSolver/build",
   "command": "/usr/bin/c++ -I/home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googlemock/include -I/home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googlemock -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/include -isystem /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest -std=c++23 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
   "file": "/home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
   "output": "/home/ojke/Programming/SudokuSolver/build/_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
