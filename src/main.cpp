@@ -14,7 +14,7 @@ auto line_of_file(const std::string file_path) {
 }
 
 auto main() -> int {
-  const auto line = line_of_file("examples/hidden_pair.txt");
+  const auto line = line_of_file("examples/claiming_pair.txt");
   Solver solver{
       line,
       MaxDepth{1000uz},

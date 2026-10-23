@@ -11,6 +11,7 @@ add_executable(tests
   test_hidden_single.cpp
   test_pointing_elimination.cpp
   test_hidden_pair.cpp
+  test_claiming_pair.cpp
 )
 target_link_libraries(tests PRIVATE core GTest::gtest_main)
 

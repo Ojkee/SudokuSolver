@@ -3,4 +3,5 @@ target_sources(core PRIVATE
   hidden_single.cpp
   hidden_pair.cpp
   pointing_elimination.cpp
+  claiming_pair.cpp
 )

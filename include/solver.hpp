@@ -5,6 +5,7 @@
 #include <string_view>
 
 #include "grid.hpp"
+#include "rules/claiming_pair.hpp"
 #include "rules/hidden_pair.hpp"
 #include "rules/hidden_single.hpp"
 #include "rules/naked_single.hpp"
@@ -31,6 +32,7 @@ class Solver {
     rules_.emplace_back(std::make_unique<NakedSingle>());
     rules_.emplace_back(std::make_unique<PointingElimination>());
     rules_.emplace_back(std::make_unique<HiddenPair>());
+    rules_.emplace_back(std::make_unique<ClaimingPair>());
   };
 
   auto solve() noexcept -> void;

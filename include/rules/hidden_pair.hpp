@@ -6,11 +6,10 @@
 #include "../grid.hpp"
 #include "rule.hpp"
 
-using Position = std::pair<Grid::Idx, Grid::Idx>;
-using Positions = std::array<std::vector<Position>,
-                             10>;  // for easier matching with 1-9 values
-
 class HiddenPair final : public Rule {
+  using Position = std::pair<Grid::Idx, Grid::Idx>;
+  using Positions = std::array<std::vector<Position>,
+                               10>;  // for easier matching with 1-9 values
  public:
   [[nodiscard]] auto name() const noexcept -> const std::string override {
     return "hidden_pair";

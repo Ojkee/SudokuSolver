@@ -1,10 +1,10 @@
-Start testing: Oct 21 21:14 CEST
+Start testing: Oct 23 22:33 CEST
 ----------------------------------------------------------
-1/17 Testing: Unit.InvalidLengthErrors
-1/17 Test: Unit.InvalidLengthErrors
+1/20 Testing: Unit.InvalidLengthErrors
+1/20 Test: Unit.InvalidLengthErrors
 Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.InvalidLengthErrors" "--gtest_also_run_disabled_tests"
 Directory: /home/ojke/Programming/SudokuSolver/build/tests
-"Unit.InvalidLengthErrors" start time: Oct 21 21:14 CEST
+"Unit.InvalidLengthErrors" start time: Oct 23 22:33 CEST
 Output:
 ----------------------------------------------------------
 Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -23,15 +23,15 @@ Note: Google Test filter = Unit.InvalidLengthErrors
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Unit.InvalidLengthErrors" end time: Oct 21 21:14 CEST
+"Unit.InvalidLengthErrors" end time: Oct 23 22:33 CEST
 "Unit.InvalidLengthErrors" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-2/17 Testing: Unit.InvalidCharError
-2/17 Test: Unit.InvalidCharError
+2/20 Testing: Unit.InvalidCharError
+2/20 Test: Unit.InvalidCharError
 Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.InvalidCharError" "--gtest_also_run_disabled_tests"
 Directory: /home/ojke/Programming/SudokuSolver/build/tests
-"Unit.InvalidCharError" start time: Oct 21 21:14 CEST
+"Unit.InvalidCharError" start time: Oct 23 22:33 CEST
 Output:
 ----------------------------------------------------------
 Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -50,15 +50,15 @@ Note: Google Test filter = Unit.InvalidCharError
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Unit.InvalidCharError" end time: Oct 21 21:14 CEST
+"Unit.InvalidCharError" end time: Oct 23 22:33 CEST
 "Unit.InvalidCharError" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-3/17 Testing: Unit.ValidGridInit
-3/17 Test: Unit.ValidGridInit
+3/20 Testing: Unit.ValidGridInit
+3/20 Test: Unit.ValidGridInit
 Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.ValidGridInit" "--gtest_also_run_disabled_tests"
 Directory: /home/ojke/Programming/SudokuSolver/build/tests
-"Unit.ValidGridInit" start time: Oct 21 21:14 CEST
+"Unit.ValidGridInit" start time: Oct 23 22:33 CEST
 Output:
 ----------------------------------------------------------
 Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -77,15 +77,15 @@ Note: Google Test filter = Unit.ValidGridInit
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Unit.ValidGridInit" end time: Oct 21 21:14 CEST
+"Unit.ValidGridInit" end time: Oct 23 22:33 CEST
 "Unit.ValidGridInit" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-4/17 Testing: Unit.FillingCandidates
-4/17 Test: Unit.FillingCandidates
+4/20 Testing: Unit.FillingCandidates
+4/20 Test: Unit.FillingCandidates
 Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.FillingCandidates" "--gtest_also_run_disabled_tests"
 Directory: /home/ojke/Programming/SudokuSolver/build/tests
-"Unit.FillingCandidates" start time: Oct 21 21:14 CEST
+"Unit.FillingCandidates" start time: Oct 23 22:33 CEST
 Output:
 ----------------------------------------------------------
 Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -104,15 +104,15 @@ Note: Google Test filter = Unit.FillingCandidates
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Unit.FillingCandidates" end time: Oct 21 21:14 CEST
+"Unit.FillingCandidates" end time: Oct 23 22:33 CEST
 "Unit.FillingCandidates" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-5/17 Testing: Unit.NakedSingleRow
-5/17 Test: Unit.NakedSingleRow
+5/20 Testing: Unit.NakedSingleRow
+5/20 Test: Unit.NakedSingleRow
 Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.NakedSingleRow" "--gtest_also_run_disabled_tests"
 Directory: /home/ojke/Programming/SudokuSolver/build/tests
-"Unit.NakedSingleRow" start time: Oct 21 21:14 CEST
+"Unit.NakedSingleRow" start time: Oct 23 22:33 CEST
 Output:
 ----------------------------------------------------------
 Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -131,15 +131,15 @@ Note: Google Test filter = Unit.NakedSingleRow
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Unit.NakedSingleRow" end time: Oct 21 21:14 CEST
+"Unit.NakedSingleRow" end time: Oct 23 22:33 CEST
 "Unit.NakedSingleRow" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-6/17 Testing: Unit.NakedSingleColumn
-6/17 Test: Unit.NakedSingleColumn
+6/20 Testing: Unit.NakedSingleColumn
+6/20 Test: Unit.NakedSingleColumn
 Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.NakedSingleColumn" "--gtest_also_run_disabled_tests"
 Directory: /home/ojke/Programming/SudokuSolver/build/tests
-"Unit.NakedSingleColumn" start time: Oct 21 21:14 CEST
+"Unit.NakedSingleColumn" start time: Oct 23 22:33 CEST
 Output:
 ----------------------------------------------------------
 Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -158,15 +158,15 @@ Note: Google Test filter = Unit.NakedSingleColumn
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Unit.NakedSingleColumn" end time: Oct 21 21:14 CEST
+"Unit.NakedSingleColumn" end time: Oct 23 22:33 CEST
 "Unit.NakedSingleColumn" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-7/17 Testing: Unit.NakedSingleBox
-7/17 Test: Unit.NakedSingleBox
+7/20 Testing: Unit.NakedSingleBox
+7/20 Test: Unit.NakedSingleBox
 Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.NakedSingleBox" "--gtest_also_run_disabled_tests"
 Directory: /home/ojke/Programming/SudokuSolver/build/tests
-"Unit.NakedSingleBox" start time: Oct 21 21:14 CEST
+"Unit.NakedSingleBox" start time: Oct 23 22:33 CEST
 Output:
 ----------------------------------------------------------
 Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -185,15 +185,15 @@ Note: Google Test filter = Unit.NakedSingleBox
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Unit.NakedSingleBox" end time: Oct 21 21:14 CEST
+"Unit.NakedSingleBox" end time: Oct 23 22:33 CEST
 "Unit.NakedSingleBox" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-8/17 Testing: Unit.NakedSingleRowColumnAndBox
-8/17 Test: Unit.NakedSingleRowColumnAndBox
+8/20 Testing: Unit.NakedSingleRowColumnAndBox
+8/20 Test: Unit.NakedSingleRowColumnAndBox
 Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.NakedSingleRowColumnAndBox" "--gtest_also_run_disabled_tests"
 Directory: /home/ojke/Programming/SudokuSolver/build/tests
-"Unit.NakedSingleRowColumnAndBox" start time: Oct 21 21:14 CEST
+"Unit.NakedSingleRowColumnAndBox" start time: Oct 23 22:33 CEST
 Output:
 ----------------------------------------------------------
 Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -212,15 +212,15 @@ Note: Google Test filter = Unit.NakedSingleRowColumnAndBox
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Unit.NakedSingleRowColumnAndBox" end time: Oct 21 21:14 CEST
+"Unit.NakedSingleRowColumnAndBox" end time: Oct 23 22:33 CEST
 "Unit.NakedSingleRowColumnAndBox" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-9/17 Testing: Unit.NakedSingleNoProgress
-9/17 Test: Unit.NakedSingleNoProgress
+9/20 Testing: Unit.NakedSingleNoProgress
+9/20 Test: Unit.NakedSingleNoProgress
 Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.NakedSingleNoProgress" "--gtest_also_run_disabled_tests"
 Directory: /home/ojke/Programming/SudokuSolver/build/tests
-"Unit.NakedSingleNoProgress" start time: Oct 21 21:14 CEST
+"Unit.NakedSingleNoProgress" start time: Oct 23 22:33 CEST
 Output:
 ----------------------------------------------------------
 Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -239,15 +239,15 @@ Note: Google Test filter = Unit.NakedSingleNoProgress
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Unit.NakedSingleNoProgress" end time: Oct 21 21:14 CEST
+"Unit.NakedSingleNoProgress" end time: Oct 23 22:33 CEST
 "Unit.NakedSingleNoProgress" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-10/17 Testing: Unit.HiddenSingle
-10/17 Test: Unit.HiddenSingle
+10/20 Testing: Unit.HiddenSingle
+10/20 Test: Unit.HiddenSingle
 Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.HiddenSingle" "--gtest_also_run_disabled_tests"
 Directory: /home/ojke/Programming/SudokuSolver/build/tests
-"Unit.HiddenSingle" start time: Oct 21 21:14 CEST
+"Unit.HiddenSingle" start time: Oct 23 22:33 CEST
 Output:
 ----------------------------------------------------------
 Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -266,15 +266,15 @@ Note: Google Test filter = Unit.HiddenSingle
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Unit.HiddenSingle" end time: Oct 21 21:14 CEST
+"Unit.HiddenSingle" end time: Oct 23 22:33 CEST
 "Unit.HiddenSingle" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-11/17 Testing: Unit.HiddenSingleNoProgress
-11/17 Test: Unit.HiddenSingleNoProgress
+11/20 Testing: Unit.HiddenSingleNoProgress
+11/20 Test: Unit.HiddenSingleNoProgress
 Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.HiddenSingleNoProgress" "--gtest_also_run_disabled_tests"
 Directory: /home/ojke/Programming/SudokuSolver/build/tests
-"Unit.HiddenSingleNoProgress" start time: Oct 21 21:14 CEST
+"Unit.HiddenSingleNoProgress" start time: Oct 23 22:33 CEST
 Output:
 ----------------------------------------------------------
 Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -293,15 +293,15 @@ Note: Google Test filter = Unit.HiddenSingleNoProgress
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Unit.HiddenSingleNoProgress" end time: Oct 21 21:14 CEST
+"Unit.HiddenSingleNoProgress" end time: Oct 23 22:33 CEST
 "Unit.HiddenSingleNoProgress" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-12/17 Testing: Unit.PointingEliminationRow
-12/17 Test: Unit.PointingEliminationRow
+12/20 Testing: Unit.PointingEliminationRow
+12/20 Test: Unit.PointingEliminationRow
 Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.PointingEliminationRow" "--gtest_also_run_disabled_tests"
 Directory: /home/ojke/Programming/SudokuSolver/build/tests
-"Unit.PointingEliminationRow" start time: Oct 21 21:14 CEST
+"Unit.PointingEliminationRow" start time: Oct 23 22:33 CEST
 Output:
 ----------------------------------------------------------
 Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -320,15 +320,15 @@ Note: Google Test filter = Unit.PointingEliminationRow
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Unit.PointingEliminationRow" end time: Oct 21 21:14 CEST
+"Unit.PointingEliminationRow" end time: Oct 23 22:33 CEST
 "Unit.PointingEliminationRow" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-13/17 Testing: Unit.PointingEliminationCol
-13/17 Test: Unit.PointingEliminationCol
+13/20 Testing: Unit.PointingEliminationCol
+13/20 Test: Unit.PointingEliminationCol
 Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.PointingEliminationCol" "--gtest_also_run_disabled_tests"
 Directory: /home/ojke/Programming/SudokuSolver/build/tests
-"Unit.PointingEliminationCol" start time: Oct 21 21:14 CEST
+"Unit.PointingEliminationCol" start time: Oct 23 22:33 CEST
 Output:
 ----------------------------------------------------------
 Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -347,15 +347,15 @@ Note: Google Test filter = Unit.PointingEliminationCol
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Unit.PointingEliminationCol" end time: Oct 21 21:14 CEST
+"Unit.PointingEliminationCol" end time: Oct 23 22:33 CEST
 "Unit.PointingEliminationCol" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-14/17 Testing: Unit.HiddenPairGroup
-14/17 Test: Unit.HiddenPairGroup
+14/20 Testing: Unit.HiddenPairGroup
+14/20 Test: Unit.HiddenPairGroup
 Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.HiddenPairGroup" "--gtest_also_run_disabled_tests"
 Directory: /home/ojke/Programming/SudokuSolver/build/tests
-"Unit.HiddenPairGroup" start time: Oct 21 21:14 CEST
+"Unit.HiddenPairGroup" start time: Oct 23 22:33 CEST
 Output:
 ----------------------------------------------------------
 Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -374,15 +374,15 @@ Note: Google Test filter = Unit.HiddenPairGroup
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Unit.HiddenPairGroup" end time: Oct 21 21:14 CEST
+"Unit.HiddenPairGroup" end time: Oct 23 22:33 CEST
 "Unit.HiddenPairGroup" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-15/17 Testing: Unit.HiddenPairRow
-15/17 Test: Unit.HiddenPairRow
+15/20 Testing: Unit.HiddenPairRow
+15/20 Test: Unit.HiddenPairRow
 Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.HiddenPairRow" "--gtest_also_run_disabled_tests"
 Directory: /home/ojke/Programming/SudokuSolver/build/tests
-"Unit.HiddenPairRow" start time: Oct 21 21:14 CEST
+"Unit.HiddenPairRow" start time: Oct 23 22:33 CEST
 Output:
 ----------------------------------------------------------
 Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -401,15 +401,15 @@ Note: Google Test filter = Unit.HiddenPairRow
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Unit.HiddenPairRow" end time: Oct 21 21:14 CEST
+"Unit.HiddenPairRow" end time: Oct 23 22:33 CEST
 "Unit.HiddenPairRow" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-16/17 Testing: Unit.HiddenPairColumn
-16/17 Test: Unit.HiddenPairColumn
+16/20 Testing: Unit.HiddenPairColumn
+16/20 Test: Unit.HiddenPairColumn
 Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.HiddenPairColumn" "--gtest_also_run_disabled_tests"
 Directory: /home/ojke/Programming/SudokuSolver/build/tests
-"Unit.HiddenPairColumn" start time: Oct 21 21:14 CEST
+"Unit.HiddenPairColumn" start time: Oct 23 22:33 CEST
 Output:
 ----------------------------------------------------------
 Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -428,15 +428,15 @@ Note: Google Test filter = Unit.HiddenPairColumn
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Unit.HiddenPairColumn" end time: Oct 21 21:14 CEST
+"Unit.HiddenPairColumn" end time: Oct 23 22:33 CEST
 "Unit.HiddenPairColumn" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-17/17 Testing: Unit.HiddenPairNoProgress
-17/17 Test: Unit.HiddenPairNoProgress
+17/20 Testing: Unit.HiddenPairNoProgress
+17/20 Test: Unit.HiddenPairNoProgress
 Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.HiddenPairNoProgress" "--gtest_also_run_disabled_tests"
 Directory: /home/ojke/Programming/SudokuSolver/build/tests
-"Unit.HiddenPairNoProgress" start time: Oct 21 21:14 CEST
+"Unit.HiddenPairNoProgress" start time: Oct 23 22:33 CEST
 Output:
 ----------------------------------------------------------
 Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -455,8 +455,89 @@ Note: Google Test filter = Unit.HiddenPairNoProgress
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Unit.HiddenPairNoProgress" end time: Oct 21 21:14 CEST
+"Unit.HiddenPairNoProgress" end time: Oct 23 22:33 CEST
 "Unit.HiddenPairNoProgress" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Oct 21 21:14 CEST
+18/20 Testing: Unit.ClaimingPairRow
+18/20 Test: Unit.ClaimingPairRow
+Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.ClaimingPairRow" "--gtest_also_run_disabled_tests"
+Directory: /home/ojke/Programming/SudokuSolver/build/tests
+"Unit.ClaimingPairRow" start time: Oct 23 22:33 CEST
+Output:
+----------------------------------------------------------
+Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Unit.ClaimingPairRow
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Unit
+[ RUN      ] Unit.ClaimingPairRow
+[       OK ] Unit.ClaimingPairRow (0 ms)
+[----------] 1 test from Unit (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Unit.ClaimingPairRow" end time: Oct 23 22:33 CEST
+"Unit.ClaimingPairRow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/20 Testing: Unit.ClaimingPairColumn
+19/20 Test: Unit.ClaimingPairColumn
+Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.ClaimingPairColumn" "--gtest_also_run_disabled_tests"
+Directory: /home/ojke/Programming/SudokuSolver/build/tests
+"Unit.ClaimingPairColumn" start time: Oct 23 22:33 CEST
+Output:
+----------------------------------------------------------
+Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Unit.ClaimingPairColumn
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Unit
+[ RUN      ] Unit.ClaimingPairColumn
+[       OK ] Unit.ClaimingPairColumn (0 ms)
+[----------] 1 test from Unit (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Unit.ClaimingPairColumn" end time: Oct 23 22:33 CEST
+"Unit.ClaimingPairColumn" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/20 Testing: Unit.ClaimingPairNoProgress
+20/20 Test: Unit.ClaimingPairNoProgress
+Command: "/home/ojke/Programming/SudokuSolver/build/tests/tests" "--gtest_filter=Unit.ClaimingPairNoProgress" "--gtest_also_run_disabled_tests"
+Directory: /home/ojke/Programming/SudokuSolver/build/tests
+"Unit.ClaimingPairNoProgress" start time: Oct 23 22:33 CEST
+Output:
+----------------------------------------------------------
+Running main() from /home/ojke/Programming/SudokuSolver/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Unit.ClaimingPairNoProgress
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Unit
+[ RUN      ] Unit.ClaimingPairNoProgress
+[       OK ] Unit.ClaimingPairNoProgress (0 ms)
+[----------] 1 test from Unit (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Unit.ClaimingPairNoProgress" end time: Oct 23 22:33 CEST
+"Unit.ClaimingPairNoProgress" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 23 22:33 CEST

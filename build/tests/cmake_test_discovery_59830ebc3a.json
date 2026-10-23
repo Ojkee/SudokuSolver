@@ -1,10 +1,10 @@
 {
-  "tests": 17,
+  "tests": 20,
   "name": "AllTests",
   "testsuites": [
     {
       "name": "Unit",
-      "tests": 17,
+      "tests": 20,
       "testsuite": [
         {
           "name": "InvalidLengthErrors",
@@ -90,6 +90,21 @@
           "name": "HiddenPairNoProgress",
           "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_hidden_pair.cpp",
           "line": 95
+        },
+        {
+          "name": "ClaimingPairRow",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_claiming_pair.cpp",
+          "line": 8
+        },
+        {
+          "name": "ClaimingPairColumn",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_claiming_pair.cpp",
+          "line": 28
+        },
+        {
+          "name": "ClaimingPairNoProgress",
+          "file": "\/home\/ojke\/Programming\/SudokuSolver\/tests\/test_claiming_pair.cpp",
+          "line": 48
         }
       ]
     }
